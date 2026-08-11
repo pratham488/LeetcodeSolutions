@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/pratham488/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/pratham488/LeetcodeSolutions/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/pratham488/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/pratham488/LeetcodeSolutions/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pratham488/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/pratham488/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pratham488/LeetcodeSolutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
