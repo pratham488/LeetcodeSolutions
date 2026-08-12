@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pratham488/LeetcodeSolutions/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/pratham488/LeetcodeSolutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
