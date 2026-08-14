@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pratham488/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/pratham488/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pratham488/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pratham488/LeetcodeSolutions/tree/master/0136-single-number) |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/pratham488/LeetcodeSolutions/tree/master/0006-zigzag-conversion) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pratham488/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
