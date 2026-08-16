@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratham488/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratham488/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/pratham488/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pratham488/LeetcodeSolutions/tree/master/0078-subsets) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratham488/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/pratham488/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratham488/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratham488/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pratham488/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
