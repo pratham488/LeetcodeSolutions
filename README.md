@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pratham488/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pratham488/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pratham488/LeetcodeSolutions/tree/master/0136-single-number) |
+| [2603-collect-coins-in-a-tree](https://github.com/pratham488/LeetcodeSolutions/tree/master/2603-collect-coins-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratham488/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/pratham488/LeetcodeSolutions/tree/master/2603-collect-coins-in-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/pratham488/LeetcodeSolutions/tree/master/2603-collect-coins-in-a-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/pratham488/LeetcodeSolutions/tree/master/2603-collect-coins-in-a-tree) |
 <!---LeetCode Topics End-->
