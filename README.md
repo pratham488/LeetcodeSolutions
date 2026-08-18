@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pratham488/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/pratham488/LeetcodeSolutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratham488/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/pratham488/LeetcodeSolutions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/pratham488/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2603-collect-coins-in-a-tree](https://github.com/pratham488/LeetcodeSolutions/tree/master/2603-collect-coins-in-a-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/pratham488/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
